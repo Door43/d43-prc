@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prc:home|Door43 (prc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prc|d43-prc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prc/archive/master.zip|d43-prc.zip]]
+
+**Recent Changes**
+{{changes>ns = prc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prc|Ethnologue data]]
+
